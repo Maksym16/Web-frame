@@ -7,6 +7,21 @@
       "name": "Max",
       "age": 22,
       "id": 2
+    },
+    {
+      "name": "Nata",
+      "age": 25,
+      "id": 3
+    },
+    {
+      "name": "",
+      "age": 85,
+      "id": 4
+    },
+    {
+      "name": "Maks",
+      "age": 85,
+      "id": 5
     }
   ]
 }
