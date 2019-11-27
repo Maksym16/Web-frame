@@ -2450,7 +2450,7 @@ var root = document.getElementById('root');
 if (root) {
   var userEdit = new UserEdit_1.UserEdit(root, user);
   userEdit.render();
-  console.log(userEdit);
+  console.log;
 } else {
   throw new Error('Root element not found');
 }
@@ -2482,7 +2482,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "61254" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "64301" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
